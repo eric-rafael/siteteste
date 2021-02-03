@@ -1,8 +1,12 @@
-# siteteste
-links do deploy
+# Links para o site de produção!
+> Aprendendo Next.js.
 
-siteteste-git-main.eric-rafael.vercel.app
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-siteteste.eric-rafael.vercel.app
+(<siteteste-git-main.eric-rafael.vercel.app>)
 
-siteteste-azure.vercel.app
+(<siteteste.eric-rafael.vercel.app>)
+
+(<siteteste-azure.vercel.app>)
