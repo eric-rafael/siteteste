@@ -6,9 +6,9 @@ export default function Index(){
             <Header />
             <p>Olá, estou aprendendo Next.js. Obrigado por acessar meu site</p>
             <p>Por enquanto estou construindo um menu de navegação!</p>
-            <p>O repositório desta página está em https://github.com/eric-rafael/siteteste</p>
+            <p>O repositório desta página está em <a href="https://github.com/eric-rafael/siteteste">github.com/eric-rafael/siteteste</a></p>
             <p>clique em um dos nomes acima para acessar as páginas oficiais</p>
-            <p>Caso queira se comunicar comigo meu e-mail é ericrafael753@gmail.com.</p>
+            <p>Caso queira se comunicar comigo meu e-mail é <a href="mailto:ericrafael753@gmail.com?subject=Questions " >ericrafael753@gmail.com</a></p>
         </div>
     )
 }
