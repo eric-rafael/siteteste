@@ -1,0 +1,26 @@
+{
+  "name": "siteteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-rafael/siteteste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-rafael/siteteste/issues"
+  },
+  "homepage": "https://github.com/eric-rafael/siteteste#readme",
+  "dependencies": {
+    "link": "^0.1.5",
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
